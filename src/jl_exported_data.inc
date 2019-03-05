@@ -114,4 +114,6 @@
     XX(jl_vecelement_typename) \
     XX(jl_void_type) \
     XX(jl_voidpointer_type) \
-    XX(jl_weakref_type)
+    XX(jl_weakref_type) \
+    XX(jl_opaque_closure_type) \
+    XX(jl_opaque_closure_typename)
